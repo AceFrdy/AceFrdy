@@ -2,7 +2,7 @@
 
 # (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Hi, I'm Freddy Aditia
 
-**Fullstack Web Developer** from Yogyakarta, Indonesia  
+**Fullstack Web Developer** from Bangka Belitung, Indonesia  
 `Building scalable web apps, clean APIs & automated deployments (ง •̀_•́)ง`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-A6ADC8?style=flat-square&logo=linkedin&logoColor=1E1E2E)](https://linkedin.com/in/username-kamu)
@@ -18,7 +18,7 @@
 - `( ˘▽˘)っ♨` Working as a **Fullstack Web Developer** at **ASTA Digital Agency**
 - `(ﾉ´ヮ`)ﾉ*: ･ﾟ` Crafting modern fullstack systems, high-speed APIs, and containerized workflows
 - `(╯°□°）╯︵ ┻━┻` Turning caffeine and error logs into production-ready web apps
-- `(☞ﾟヮﾟ)☞` Ask me about **Next.js, Laravel, Go, Docker, or Dokploy**
+- `(☞ﾟヮﾟ)☞` Ask me about **Next.js, Laravel, Go, or C#**
 
 ---
 
