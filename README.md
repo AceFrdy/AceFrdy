@@ -19,7 +19,7 @@
         <li><code>(☞ﾟヮﾟ)☞</code> Ask me about <b>Fullstack Architecture, Linux, or Self-Hosting</b></li>
       </ul>
       <br/>
-      <a href="https://linkedin.com/in/freddy-aditia">
+      <a href="https://www.linkedin.com/in/freddy-aditia-4358152a1/">
         <img src="https://img.shields.io/badge/LinkedIn-A6ADC8?style=flat-square&logo=linkedin&logoColor=1E1E2E" alt="LinkedIn" />
       </a>
       <a href="https://frdy21st.my.id">
