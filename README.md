@@ -54,11 +54,11 @@
 ### `ヾ(⌐■_■)ノ♪` GitHub Analytics
 
 <div align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/AceFrdy/AceFrdy/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
 </div>
 <div align="center">
-  <img width="49%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language" />
-  <img width="49%" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" />
+  <img width="49%" src="https://raw.githubusercontent.com/AceFrdy/AceFrdy/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language" />
+  <img width="49%" src="https://raw.githubusercontent.com/AceFrdy/AceFrdy/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=AceFrdy&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" />
