@@ -49,7 +49,7 @@
 
 </div>
 
-<!-- ---
+---
 
 ### `ヾ(⌐■_■)ノ♪` GitHub Analytics
 
@@ -64,7 +64,7 @@
   <img src="https://streak-stats.demolab.com/?user=AceFrdy&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" />
 </div>
 
---- -->
+---
 
 <div align="center">
 
