@@ -11,12 +11,12 @@
     </td> -->
     <td width="1000">
       <h3><code>( •_•)>⌐■-■</code> About Me</h3>
-      <p><b>Fullstack Web Developer</b> based in Bangka Belitung, Indonesia 🇮🇩</p>
+      <p><b>Web Developer</b> based in Bangka Belitung, Indonesia 🇮🇩</p>
       <ul>
         <li><code>( ˘▽˘)っ♨</code> Building scalable web apps & admin panels at <b>ASTA Digital Agency</b></li>
         <li><code>(ง •̀_•́)ง</code> Crafting clean APIs with <b>Laravel</b>, <b>Go</b>, and <b>Next.js</b></li>
         <li><code>(╯°□°）╯︵ ┻━┻</code> Automating deployments using <b>Docker</b> & <b>Dokploy</b></li>
-        <li><code>(☞ﾟヮﾟ)☞</code> Ask me about <b>Fullstack Architecture, Linux, or Self-Hosting</b></li>
+        <li><code>(☞ﾟヮﾟ)☞</code> Aseli Cuy <b> (,,>﹏<,,) </b></li>
       </ul>
       <br/>
       <a href="https://www.linkedin.com/in/freddy-aditia-4358152a1/">
