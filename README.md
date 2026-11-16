@@ -9,7 +9,7 @@
     <!-- <td width="35%" align="center">
       <img src="./assets/tes.jpg" width="230" alt="Character Animation" />
     </td> -->
-    <td width="full">
+    <td width="1000">
       <h3><code>( •_•)>⌐■-■</code> About Me</h3>
       <p><b>Fullstack Web Developer</b> based in Bangka Belitung, Indonesia 🇮🇩</p>
       <ul>
