@@ -11,7 +11,7 @@
     </td> -->
     <td width="1000">
       <h3><code>( •_•)>⌐■-■</code> About Me</h3>
-      <p><b>Web Developer</b> based in Bangka Belitung, Indonesia 🇮🇩</p>
+      <p><b>Web Developer</b> based from Bangka Belitung, Indonesia 🇮🇩</p>
       <ul>
         <li><code>( ˘▽˘)っ♨</code> Building scalable web apps & admin panels at <b>ASTA Digital Agency</b></li>
         <li><code>(ง •̀_•́)ง</code> Crafting clean APIs with <b>Laravel</b>, <b>Go</b>, and <b>Next.js</b></li>
